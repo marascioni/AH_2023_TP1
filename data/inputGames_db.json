@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Halo",
+        "genre": "Acción",
+        "members": [
+            "Jason Jones",
+            "Scott Warner"
+        ],
+        "edition": 2001,
+        "points": 0
+    },
+    {
+        "name": "GTA V",
+        "genre": "Aventura",
+        "members": [
+            "Leslie Benzies",
+            "Imran Sarwar"
+        ],
+        "edition": 2022,
+        "points": 0
+    },
+    {
+        "name": "Red Dead Redemption 2",
+        "genre": "Aventura",
+        "members": [
+            "Dan Houser",
+            "Sam Houser"
+        ],
+        "edition": 2022,
+        "points": 0
+
+    },
+    {
+        "name": "Fortnite",
+        "genre": "Acción",
+        "members": [
+            "Rom Di Prisco",
+            "Pinar Toprak"
+        ],
+        "edition": 2017,
+        "points": 0
+    },
+    {
+        "name": "Diablo 4",
+        "genre": "RPG",
+        "members": [
+            "Jason Regier",
+            "John Mueller"
+        ],
+        "edition": 2023,
+        "points": 0
+    }
+]

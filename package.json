@@ -1,0 +1,21 @@
+{
+  "name": "game_jam",
+  "version": "1.0.0",
+  "description": "AH_TP1",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "server": "clear && nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MRascioni",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "4.18.2",
+    "mongodb": "^6.2.0",
+    "yup": "^1.3.2"
+  }
+}
